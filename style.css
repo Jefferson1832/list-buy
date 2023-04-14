@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+li {
+    width: 50%;
+    margin: auto;
+}
+
+.input {
+    width: 60%;
+    margin: auto;
+}
+
+.botao {
+    text-align: center;
+}
